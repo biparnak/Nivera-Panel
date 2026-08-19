@@ -54,7 +54,7 @@ Go to **Admin > Panel API** to configure your hosting panel:
 ## Directory Structure
 
 ```
-NiveraCloud/
+NiveraPanel/
 ├── config/          # Configuration
 ├── app/
 │   ├── Core/        # Framework core (Router, Auth, API clients)
@@ -70,3 +70,5 @@ NiveraCloud/
 ## License
 
 MIT License - Free for personal and commercial use.
+
+An open Source Frontend Panel for Game Hosting Servers. (AI has been used to code this Panel)
