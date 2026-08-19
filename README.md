@@ -1,4 +1,4 @@
-# NiveraCloud - Front Panel
+# Nivera - Front Panel
 
 A full-featured hosting front panel supporting **Pterodactyl**, **PufferPanel** (Auth2/OAuth2), and **Pelican** panels. Built with PHP 8.1+, MySQL, and a custom MVC framework.
 
